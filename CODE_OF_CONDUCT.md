@@ -1,4 +1,4 @@
-Code of Conduct
+# Code of Conduct
 All participants of How They Voted are expected to abide by our Code of Conduct, both online and during in-person events that are hosted and/or associated with How They Voted.
 
 The Pledge
