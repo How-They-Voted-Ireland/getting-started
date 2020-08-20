@@ -1,3 +1,5 @@
+# Contributing guide
+
 Contributions to all aspects of this project are encouraged. Here are a few guidelines to make the process easier.
 
  - All PRs should have an associated issue. The issue should be tagged with `Ready`.
